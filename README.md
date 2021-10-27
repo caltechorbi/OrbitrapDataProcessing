@@ -13,5 +13,5 @@ Conventions for adding to the repository:
 - Please only add *tested and verified* code. It should be well commented and easy for others to follow.
 
 
-~Contents of the Repository:~
-- Direct injection
+Contents of the Repository:
+- Direct Elution: code developed for the processing of RAW files associated with oribtrap direct injection experiments
