@@ -14,4 +14,4 @@ Conventions for adding to the repository:
 
 
 Contents of the Repository:
-- Direct Elution: code developed for the processing of RAW files associated with oribtrap direct injection experiments
+- Direct Elution: code developed for the processing of RAW files associated with oribtrap direct elution experiments
