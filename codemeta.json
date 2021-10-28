@@ -1,0 +1,30 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "description": "Orbitrap Data Processing Software from the Eiler Lab",
+  "name": "OrbitrapDataProcessing",
+  "codeRepository": "https://github.com/eilerlab/OrbitrapDataProcessing",
+  "issueTracker": "https://github.com/eilerlab/OrbitrapDataProcessing/issues",
+  "license": "PICK A LICENSE",
+  "version": "0.0.0",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sarah",
+      "familyName": "Zeichner",
+      "affiliation": "Caltech",
+      "email": "EMAIL IF DESIRED",
+      "@id": "https://orcid.org/ORCID"
+    }],
+  "developmentStatus": "active",
+  "downloadUrl":
+  "https://github.com/eilerlab/OrbitrapDataProcessing/releases",
+  "keywords": [
+    "Orbitrap",
+    "eilerlaborbi",
+    "software",
+    "GitHub"
+  ],
+  "maintainer": "https://orcid.org/ORCID",
+  "programmingLanguage": "Python"
+}
