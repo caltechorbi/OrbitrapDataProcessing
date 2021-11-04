@@ -6,15 +6,15 @@
   "codeRepository": "https://github.com/eilerlab/OrbitrapDataProcessing",
   "issueTracker": "https://github.com/eilerlab/OrbitrapDataProcessing/issues",
   "license": "PICK A LICENSE",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
       "givenName": "Sarah",
       "familyName": "Zeichner",
       "affiliation": "Caltech",
-      "email": "EMAIL IF DESIRED",
-      "@id": "https://orcid.org/ORCID"
+      "email": "szeichner@caltech.edu",
+      "@id": "https://orcid.org/0000-0001-8897-7657"
     }],
   "developmentStatus": "active",
   "downloadUrl":
@@ -25,6 +25,6 @@
     "software",
     "GitHub"
   ],
-  "maintainer": "https://orcid.org/ORCID",
+  "maintainer": "https://orcid.org/0000-0001-8897-7657",
   "programmingLanguage": "Python"
 }
