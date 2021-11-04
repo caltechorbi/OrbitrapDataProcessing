@@ -5,7 +5,7 @@ Please follow the guidelines below to contribute new code to the repository:<br 
 (1) create a project specific folder, and add your code to it <br />
 (2) add a readme to describe the contents of the folder<br />
 (3) add your author information and ORCID to the codemeta.json so your information can be associated to the new repository via CaltechDATA. Update the version information in codemeta.json file (see versioning instructions below) <br />
-(4) publish a release. this will trigger CaltechDATA to create an associated DOI, which will enable users to access a specific version of the code, all stored within the global repository<br />
+(4) publish a release. this will trigger CaltechDATA to create an associated DOI, which will enable users to access a specific version of the code, all stored within the global repository. any code published from this repository will be tagged with the unique keyword 'eilerlaborbi' on caltechDATA<br />
 (5) add a description of your added code below to the "version record of the repository" list.<br />
 
 Conventions for adding to the repository:
