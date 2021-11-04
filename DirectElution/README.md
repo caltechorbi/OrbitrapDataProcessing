@@ -1,6 +1,6 @@
-#Direct elution data processing code
+Direct elution data processing code
 
-This folder includes the two data processing codes utilized in the processing of the direct injection data.
+This folder includes the two data processing codes utilized in the processing of the direct injection data, originally published in v1.0.0. of this repository.
 
 DataAnalyzerWorker.py includes calling functions and sets up the constants necessary to process the data.
 
