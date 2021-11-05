@@ -20,6 +20,6 @@ Versioning instructions:
 -document version under "version record" below
 
 Version record of the Repository:
-- v.1.0.2. addition of Direct Elution: code developed for the processing of RAW files associated with oribtrap direct elution experiment
+- v.1.0.3. addition of Direct Elution: code developed for the processing of RAW files associated with oribtrap direct elution experiment
 
 Latest DOI here:  [![DOI](https://data.caltech.edu/badge/421975144.svg)](https://data.caltech.edu/badge/latestdoi/421975144)
