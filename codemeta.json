@@ -1,12 +1,12 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "description": "Orbitrap Data Processing Software from the Eiler Lab",
+  "description": "Orbitrap Data Processing Software from Caltech labs and Friends",
   "name": "OrbitrapDataProcessing",
-  "codeRepository": "https://github.com/eilerlab/OrbitrapDataProcessing",
-  "issueTracker": "https://github.com/eilerlab/OrbitrapDataProcessing/issues",
+  "codeRepository": "https://github.com/caltechorbi/OrbitrapDataProcessing",
+  "issueTracker": "https://github.com/caltechorbi/OrbitrapDataProcessing/issues",
   "license": "PICK A LICENSE",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "author": [
     {
       "@type": "Person",
@@ -18,10 +18,10 @@
     }],
   "developmentStatus": "active",
   "downloadUrl":
-  "https://github.com/eilerlab/OrbitrapDataProcessing/releases",
+  "https://github.com/caltechorbi/OrbitrapDataProcessing/releases",
   "keywords": [
     "Orbitrap",
-    "eilerlaborbi",
+    "caltechorbi",
     "software",
     "GitHub"
   ],
