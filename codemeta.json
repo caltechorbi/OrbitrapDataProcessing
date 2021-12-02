@@ -5,7 +5,7 @@
   "name": "OrbitrapDataProcessing",
   "codeRepository": "https://github.com/caltechorbi/OrbitrapDataProcessing",
   "issueTracker": "https://github.com/caltechorbi/OrbitrapDataProcessing/issues",
-  "license": "PICK A LICENSE",
+  "license": "https://github.com/caltechorbi/OrbitrapDataProcessing/blob/main/license.md",
   "version": "1.0.3",
   "author": [
     {
